@@ -32,9 +32,22 @@ The notebook covers the following stages:
 
 ## Dataset
 
-The project uses music audio files organised into four mood categories (Q1–Q4), alongside their corresponding annotations.
+This project uses the 4Q Audio Emotion Dataset, developed by the Music Information Retrieval research group at the University of Coimbra.
 
-The dataset is not included in this repository. Users will need to obtain the dataset separately and update the relevant file paths in the notebook.
+The dataset contains audio clips annotated into four emotional quadrants based on Russell's Circumplex Model of Affect.
+
+Source: Music Information Retrieval – Datasets
+
+Dataset: 4Q Audio Emotion Dataset (2018)
+
+### Dataset Reference
+
+Panda R., Malheiro R. & Paiva R. P. (2018). “Novel audio features for music emotion recognition”. IEEE Transactions on Affective Computing (IEEE early access). DOI: 10.1109/TAFFC.2018.2820691.
+
+Panda R., Malheiro R., Paiva R. P. (2018). “Musical Texture and Expressivity Features for Music Emotion Recognition”. 19th International Society for Music Information Retrieval Conference – ISMIR 2018, Paris, France.
+
+The dataset is not included in this repository. Users must obtain it separately and configure the relevant file paths in the notebook.
+Following is the link to the dataset: https://mir.dei.uc.pt/downloads.html
 
 ## Running the Notebook
 
